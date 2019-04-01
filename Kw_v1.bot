@@ -1,0 +1,50 @@
+{
+  "name": "Kw_v1",
+  "padlock": "SDPG0bpHZHPagGyIDFAUPQ==!7Jn+NCs6rrBPdBC9oUDU5WvT4xjGvXW1OOdT4MPrCDg58JbsBqTxkTSxWN+cvl1t",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "d03cffa8-9449-4fac-ba97-9a8c0d2de749",
+      "subscriptionId": "ba18dfde-0949-4885-b332-a59d918bd43e",
+      "resourceGroup": "Kw_v1",
+      "serviceName": "Kw_v1",
+      "type": "abs",
+      "name": "Kw_v1",
+      "id": "1"
+    },
+    {
+      "connectionString": "xhAyxHb6vvTydCsJKoyZrA==!pumGi851H6cu5wMxEFAKV4wN3LDPUY0ZTQIR9swjJpQUEf9dShsUYIpgVoJ/RZ7opy6wIzoxgTez8doCwL+GOJlMJ6yIK9M+NRt4lHcwP16n6yB/muLs3+CeTcew19ompUCuMvNpualWikYIRfe5oc4UxTPU82AfAO/6DuqOaD0rh9Uii6tab1ZGboPH5B7UalX0M9R7pof+OjITR54b2w==",
+      "tenantId": "d03cffa8-9449-4fac-ba97-9a8c0d2de749",
+      "subscriptionId": "ba18dfde-0949-4885-b332-a59d918bd43e",
+      "resourceGroup": "Kw_v1",
+      "serviceName": "kwv187ba",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "17d222ae-c26d-44f0-981e-482f27096401",
+      "appPassword": "TLW521LKDwvaTnvjhrVsIg==!bXQeynYVEmR1CBjWL256p4blDmKRGWe/ur2yjRNawQc=",
+      "endpoint": "https://kwv1.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "e78c328f-23cf-4034-97f5-8af60a37f4ec",
+      "authoringKey": "3oC+hVHcx2TUJGlsZdLhVg==!E0nCCExYNY7ztpkE08sE1KOmgn5y9hkbXpF5CXQRM83za8kHrQ7EYCYo9b7XHwQg",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
